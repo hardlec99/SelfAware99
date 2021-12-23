@@ -1,4 +1,6 @@
-👋 Hi, I’m @SelfAware99 I'm currently learning how to code on my own (love you YouTube) after leaving my dream of becoming a Software Engineer behind due to my lack of abilities with math and of course my understanding of life at the moment lol.
+## 👋 Hi, I’m @SelfAware99 
+
+I'm currently learning how to code on my own (love you YouTube) after leaving my dream of becoming a Software Engineer behind due to my lack of abilities with math and of course my understanding of life at the moment lol.
 
 
 Today I start another journey proving to myself that I have always been able to learn how to code properly after these 8 years of a professional career in another path.
@@ -13,19 +15,22 @@ Here I am. If we can learn together that would be awesome! of course, I will be 
 When I become an Android Developer I will update my description :)
 
 
-##Learning - Skills: 
+
+## Learning - Skills: 
 
 12/15/2021
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1AA2D4)</br>
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1AA2D4?style=for-the-badge&logo=webpack&logoColor=white&labelColor=3DDC84)</br>
 
 
-##My Web:
+
+## My Web:
 
 
-![Web](https://img.shields.io/badge/Website-trussets.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
+![Web](https://img.shields.io/badge/Website-soon.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
 
 
 
