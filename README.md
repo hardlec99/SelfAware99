@@ -12,7 +12,7 @@ I'm 26 at the moment willing to give my life another start. As many say, It's ne
 
 Here I am. If we can learn together that would be awesome! I would also love to be of help for many as me willing to give their lives a 180 turn.
 
-I'll be adding more skills to my profile once I become an Android Development!
+I'll be adding more skills to my profile once I become an Android Developer!
 
 Stay tuned for a personal Blog! :)
 
