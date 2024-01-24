@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SelfAware99 <p align="center"> <img src="https://komarev.com/ghpvc/?username=selfaware99&label=Profile%20Views&color=0e75b6&style=flat" alt="selfaware99" /> </p> </h1>
+<h1 align="center">Hi 👋 <p align="center"> <img src="https://komarev.com/ghpvc/?username=selfaware99&label=Profile%20Views&color=0e75b6&style=flat" alt="selfaware99" /> </p> </h1>
 <h3 align="center">Software Developer.</h3>
 
 I'm currently learning how to code on my own (love you YouTube) after leaving my dream of becoming a Software Engineer behind and studying a different career.
