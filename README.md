@@ -22,7 +22,7 @@ Learning everything I can!
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="[HTTP://www.google.com](https://www.linkedin.com/in/cesara320/)" target="_blank">
+  <a href="https://www.linkedin.com/in/cesara320/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
